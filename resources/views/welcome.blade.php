@@ -7,7 +7,7 @@
         <p class="bg-teal-400 mb-8">
             <b>Tealwallet</b> is a mobile and web application for expense managment and tracking system 
         </p>
-        <button class="bg-tealwallet rounded-xl border border-green-400 hover:border-green-500 hover:bg-green-500 py-3 px-8 shadow-md text-white font-bold text-xl">Get Free Access!</button>
+        <a href="https://app.tealwallet.com" class="bg-tealwallet rounded-xl border border-green-400 hover:border-green-500 hover:bg-green-500 py-3 px-8 shadow-md text-white font-bold text-xl">Get Free Access!</a>
     </div>
 
     <div class="grid grid-cols-2 md:grid-cols-4 gap-8">
