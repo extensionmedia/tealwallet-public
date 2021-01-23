@@ -2,13 +2,15 @@
 @section('title') {{__('Tealwallet - Expense Manager Application')}} @endsection
 @section('content')
     <div class="text-center my-12">
-        <h1 class="text-tealwallet font-medium text-4xl my-6">Expense Manager System</h1>
-        <p class="bg-teal-400">
-            <b>Tealwallet</b> is a a mobile and web application for expense managment system 
+        <h1 class="text-tealwallet font-medium text-4xl my-6">
+            Expense Manager and Tracking System</h1>
+        <p class="bg-teal-400 mb-8">
+            <b>Tealwallet</b> is a mobile and web application for expense managment and tracking system 
         </p>
+        <a href="https://app.tealwallet.com" class="bg-tealwallet rounded-xl border border-green-400 hover:border-green-500 hover:bg-green-500 py-3 px-8 shadow-md text-white font-bold text-xl">Get Free Access!</a>
     </div>
 
-    <div class="grid grid-cols-4 gap-8">
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-8">
         <!-- First Value -->
         <div class="hover:shadow-xl hover:bg-gray-50 cursor-pointer bg-white shadow-lg py-2 px-4 rounded">
             <div class="text-center border-b py-8 mb-8">
